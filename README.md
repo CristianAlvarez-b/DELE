@@ -17,3 +17,7 @@
   2. Calculate where the function f(x)=x^3+3 passes through axis X using Newtons Method​.
   3. Calculate the vector projection give A projected on to B​.
   4. Calculate the rotation of the vector in 2D using the multiplication operator given angle alpha and the vector.
+
+### 💻 WEEK 3
+- Python exercises
+  1. Flower Classification
